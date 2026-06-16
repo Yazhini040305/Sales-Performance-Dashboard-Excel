@@ -20,7 +20,7 @@ and 3 product categories using Microsoft Excel.
 5. Overall profit margin is 26% — Healthy!
 
 ## Dashboard Preview
-![Dashboard](Sales_Performance_Dashboard_2020-2025.png)
+![Dashboard](Sales Performance Dashboard 2020-2025.png)
 
 ## Dataset Details
 - Total Orders: 1,194
